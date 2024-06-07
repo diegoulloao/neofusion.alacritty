@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-    Neofusion theme for <a href="https://alacritty.org/" target="_blank">Alacritty</a> blending lava red and ice blue colors ✨
+    Neofusion theme for <a href="https://alacritty.org/" target="_blank">Alacritty</a> blending lava red and ice blue colors 🔥
 </p>
 
 <p align="center">
