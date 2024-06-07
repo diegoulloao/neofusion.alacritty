@@ -44,6 +44,10 @@ Add the following lines to your `~/.gitconfig` file:
 
 iTerm2 theme version. [Check it out!](https://github.com/diegoulloao/neofusion.iterm)
 
+### `neofusion.kitty`
+
+Kitty theme version. [Check it out!](https://github.com/diegoulloao/neofusion.kitty)
+
 ### `neofusion.nvim`
 
 Neovim theme version. [Check it out!](https://github.com/diegoulloao/neofusion.nvim)
