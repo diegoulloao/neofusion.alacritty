@@ -1,0 +1,29 @@
+# Colors (Neofusion)
+
+# Default colors
+[colors.primary]
+
+background = '#06101e'
+foreground = '#e2d9c5'
+
+# Normal colors
+[colors.normal]
+black   = '#06101e'
+red     = '#fd5e3a'
+green   = '#fd5e3a'
+yellow  = '#35b5ff'
+blue    = '#22536f'
+magenta = '#ec30ac'
+cyan    = '#66def9'
+white   = '#e2d9c5'
+
+# Bright colors
+[colors.bright]
+black   = '#22536f'
+red     = '#ec30ac'
+green   = '#616d33'
+yellow  = '#66def9'
+blue    = '#35b5ff'
+magenta = '#ec30ac'
+cyan    = '#fd5e3a'
+white   = '#e2d9c5'
