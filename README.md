@@ -6,7 +6,7 @@
 </div>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Alacritty-red.svg?style=for-the-badge&logo=alacritty&logoColor=white" alt="zsh-badge" />
+    <img src="https://img.shields.io/badge/Alacritty-e47e2f.svg?style=for-the-badge&logo=alacritty&logoColor=white" alt="zsh-badge" />
 </p>
 
 <p align="center">
