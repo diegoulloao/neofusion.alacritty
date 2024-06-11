@@ -38,7 +38,7 @@ Add the following lines to your `~/.gitconfig` file:
   new = cyan
 ```
 
-# Projects ⭐
+# Ports ⭐
 
 ### `neofusion.iterm`
 
@@ -47,6 +47,10 @@ iTerm2 theme version. [Check it out!](https://github.com/diegoulloao/neofusion.i
 ### `neofusion.kitty`
 
 Kitty theme version. [Check it out!](https://github.com/diegoulloao/neofusion.kitty)
+
+### `neofusion.winterm`
+
+Windows Terminal theme version. [Check it out!](https://github.com/diegoulloao/neofusion.winterm)
 
 ### `neofusion.nvim`
 
