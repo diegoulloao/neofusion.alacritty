@@ -1,3 +1,7 @@
+<p align="right">
+  <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA" alt="sponsor" />
+</p>
+
 <div align="center">
     <h1>
         <img src="https://i.ibb.co/Km2gft4/logo.jpg" width="110" />
@@ -6,7 +10,6 @@
 </div>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA" alt="sponsor" />
     <img src="https://img.shields.io/badge/Alacritty-e47e2f.svg?style=for-the-badge&logo=alacritty&logoColor=white" alt="zsh-badge" />
 </p>
 
@@ -28,6 +31,7 @@
 </p>
 
 # Installation 📦
+
 Check the [themes section](https://github.com/alacritty/alacritty-theme/blob/master/README.md#installation) in the Alacritty themes documentation.
 
 # Getting the right diff colors ✅
@@ -85,4 +89,4 @@ Beautiful wallpapers that match your setup. [Check available resolutions](https:
 
 Check out our awesome sponsors!
 
-<!-- sponsors --><!-- sponsors -->
+<!-- sponsors --><a href="https://github.com/NeckBeardPrince"><img src="https://github.com/NeckBeardPrince.png" width="60px" alt="Adam Stracener" /></a><a href="https://github.com/drgfunk"><img src="https://github.com/drgfunk.png" width="60px" alt="" /></a><!-- sponsors -->
